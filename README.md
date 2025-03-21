@@ -1,5 +1,5 @@
 # Deep Reinforcement Learning
-Repository of Deep Reinforcement Learning Algorithms
+Repository of Deep Reinforcement Learning Algorithms including REINFORCE, VPG, A3C, A2C, DDPG, TD3, SAC, PPO
 
 SAC Cheetah Demo
 
